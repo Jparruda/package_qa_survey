@@ -2,7 +2,7 @@
 
 ## Study Context
 
-This repository accompanies the study *"What makes a great Quality Assurance (QA) Analyst? A Four-Year Survey in Brazilian Companies"*, presented at SBES 2025. The work explores the evolving profile, skills, and activities of QA professionals based on data collected from 169 participants between 2021 and 2025. It investigates both technical and behavioral competencies expected of QA professionals, providing insight into the Brazilian software testing landscape and contributing to the understanding of how QA roles have evolved over time.
+This repository accompanies the study *"Return of the QA: A Comparative Analysis of Competencies and Skills for Quality Analysts in Brazil (2021–2025)"*, presented at SBQS 2025. The work explores the evolving profile, skills, and activities of QA professionals based on data collected from 169 participants between 2021 and 2025. It investigates both technical and behavioral competencies expected of QA professionals, providing insight into the Brazilian software testing landscape and contributing to the understanding of how QA roles have evolved over time.
 
 ## Data Provenance
 
