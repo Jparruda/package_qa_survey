@@ -1,4 +1,4 @@
-# What makes a great Quality Assurance (QA) Analyst? A Four-Year Survey in Brazilian companies
+# Return of the QA: A Comparative Analysis of Competencies and Skills for Quality Analysts in Brazil (2021–2025)
 
 ## Study Context
 
